@@ -1,0 +1,28 @@
+
+  
+    .root {
+        margin: 30px;
+        padding: 10px;
+    }
+    .paper {
+      padding:spacing(2) 
+    }
+    .form {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .fileInput {
+      width: 97%;
+      margin: 10px 0;
+    }
+    .buttonSubmit {
+      margin-bottom: 10;
+    }
+    .css-wb57ya-MuiFormControl-root-MuiTextField-root{
+      margin: 3px !important;
+    }
+
+    .css-189e9pj-MuiButtonBase-root-MuiButton-root{
+             margin: 3px !important;
+    }
